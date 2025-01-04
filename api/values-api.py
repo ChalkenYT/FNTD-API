@@ -124,7 +124,12 @@ units_data = {
     "Gladiator Foxy": "20-30",
     "Reindeer Withered Bonnie": "25-50",
     "Frost Queen Ballora": "1k-1.5k",
-
+    "Freddy Frostbear": "1k",
+    "Frost Plushtrap": "20-30",
+    "Montgomery Gator": "12k-15k",
+    "DJ Music Man": "1.5k",
+    "Sunshine": "2k-3k",
+    "Wet Floor Bot": "1k+",
 }
 
 @app.route("/api/values-api", methods=["GET"])
