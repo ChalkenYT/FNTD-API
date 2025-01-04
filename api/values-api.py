@@ -25,7 +25,8 @@ units_data = {
     "Kronos Endo Freddy": "50k+",
     "Dark Knight Puppet": "700k+",
     "Black Ice Freddy": "15k-16k",
-    "Old Man Krampus": "200k"
+    "Old Man Krampus": "200k",
+    "Dark Frostbear": "20k-25k",
 }
 
 @app.route("/api/values-api", methods=["GET"])
