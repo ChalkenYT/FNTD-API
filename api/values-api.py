@@ -28,7 +28,7 @@ units_data = {
     "Old Man Krampus": "200k"
 }
 
-@app.route("/get_value", methods=["GET"])
+@app.route("/api/values-api", methods=["GET"])
 def get_value():
     unit_name = request.args.get("unit_name")
     if not unit_name:
