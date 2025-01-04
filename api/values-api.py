@@ -49,7 +49,20 @@ units_data = {
     "Blighted Endo Bonnie": "1.5k",
     "Juggernaut Bonnie": "8k-9k",
     "Scraptrap": "4k",
-    "Lefty": "2k"
+    "Lefty": "2k",
+    "Shadow Bonnie": "10k+",
+    "Stonetrap": "1.5k",
+    "Diver Endo": "3k",
+    "Widow Baby": "2.5k",
+    "The King": "2k",
+    "Icetrap": "2.5k",
+    "Jolly Shadow Bonnie": "500-800",
+    "Bouncer": "5k",
+    "Overlord Scott": "3.5k",
+    "Winter Soldier Bonnie": "200",
+    "Moondrop": "20k-30k+",
+    "Exotic Butters": "250k-300k",
+    "Stardrop": "4k-5k",
 }
 
 @app.route("/api/values-api", methods=["GET"])
