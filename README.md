@@ -1,7 +1,7 @@
 # FNTD-API
 Values list and DPS chart for FNTD
 
-#Usage
+# Usage
 
 The following is the command to pull a units value on command prompt. You do not need to install anything for this to function.
 
