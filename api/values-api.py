@@ -4,6 +4,7 @@ app = Flask(__name__)
 
 # Data for the units
 units_data = {
+    "Shadow Of Afton": "4k",
     "Master Puppeteer": "800-1k",
     "Limitless Shadow": "1k",
     "Agonized Springtrap": "4.5k",
@@ -20,7 +21,7 @@ units_data = {
     "Overseer Foxy": "12k-12.5k",
     "Frostbite Freddy": "75k-80k",
     "Astral Bonnie": "60k+",
-    "Old Man Consequences": "100k-120k",
+    "Old Man Consequences": "90k-100k",
     "Gravelord Foxy": "45k",
     "Kronos Endo Freddy": "50k+",
     "Dark Knight Puppet": "700k+",
@@ -126,7 +127,7 @@ units_data = {
     "Frost Queen Ballora": "1k-1.5k",
     "Freddy Frostbear": "1k",
     "Frost Plushtrap": "20-30",
-    "Montgomery Gator": "12k-15k",
+    "Montgomery Gator": "12k-13k",
     "DJ Music Man": "1.5k",
     "Sunshine": "2k-3k",
     "Wet Floor Bot": "1k+",
